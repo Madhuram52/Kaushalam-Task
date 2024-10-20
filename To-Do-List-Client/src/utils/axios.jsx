@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://to-do-list-server-omeo.onrender.com/api';
+const API_URL = 'https://madtasker-server.onrender.com/api';
 
 const axiosInstance = axios.create({
   baseURL: API_URL,
