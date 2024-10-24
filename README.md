@@ -6,7 +6,7 @@
 - [PostMan API Collection (CopyLINK)](https://api.postman.com/collections/28999523-31eb0f39-361d-44f0-a310-bdc71e4f6850?access_key=PMAT-01JANEGE8FDXK9Q4GJVB9T9XS1)
 
 ## About the App
-**MADTASKER** is a full-stack To-Do List application built with React/Next.js for the front-end and Node.js for the back-end. Users can create, view, edit, delete, and mark tasks as completed. The app is designed to be intuitive and responsive, ensuring a smooth user experience on both desktop and mobile devices.
+**MADTASKER** is a full-stack To-Do List application built with React.js for the front-end and Node.js for the back-end. Users can create, view, edit, delete, and mark tasks as completed. The app is designed to be intuitive and responsive, ensuring a smooth user experience on both desktop and mobile devices.
 
 
 ## Prerequisites
